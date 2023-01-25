@@ -1,0 +1,13 @@
+C:\Users\DRAMYAKA\source\repos\calculater\Highest Marks\bin\Debug\netcoreapp3.1\Highest Marks.exe
+C:\Users\DRAMYAKA\source\repos\calculater\Highest Marks\bin\Debug\netcoreapp3.1\Highest Marks.deps.json
+C:\Users\DRAMYAKA\source\repos\calculater\Highest Marks\bin\Debug\netcoreapp3.1\Highest Marks.runtimeconfig.json
+C:\Users\DRAMYAKA\source\repos\calculater\Highest Marks\bin\Debug\netcoreapp3.1\Highest Marks.runtimeconfig.dev.json
+C:\Users\DRAMYAKA\source\repos\calculater\Highest Marks\bin\Debug\netcoreapp3.1\Highest Marks.dll
+C:\Users\DRAMYAKA\source\repos\calculater\Highest Marks\bin\Debug\netcoreapp3.1\Highest Marks.pdb
+C:\Users\DRAMYAKA\source\repos\calculater\Highest Marks\obj\Debug\netcoreapp3.1\Highest Marks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRAMYAKA\source\repos\calculater\Highest Marks\obj\Debug\netcoreapp3.1\Highest Marks.AssemblyInfoInputs.cache
+C:\Users\DRAMYAKA\source\repos\calculater\Highest Marks\obj\Debug\netcoreapp3.1\Highest Marks.AssemblyInfo.cs
+C:\Users\DRAMYAKA\source\repos\calculater\Highest Marks\obj\Debug\netcoreapp3.1\Highest Marks.csproj.CoreCompileInputs.cache
+C:\Users\DRAMYAKA\source\repos\calculater\Highest Marks\obj\Debug\netcoreapp3.1\Highest Marks.dll
+C:\Users\DRAMYAKA\source\repos\calculater\Highest Marks\obj\Debug\netcoreapp3.1\Highest Marks.pdb
+C:\Users\DRAMYAKA\source\repos\calculater\Highest Marks\obj\Debug\netcoreapp3.1\Highest Marks.genruntimeconfig.cache

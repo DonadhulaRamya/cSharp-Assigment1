@@ -1,0 +1,13 @@
+C:\Users\DRAMYAKA\source\repos\calculater\Swap numbers\bin\Debug\netcoreapp3.1\Swap numbers.exe
+C:\Users\DRAMYAKA\source\repos\calculater\Swap numbers\bin\Debug\netcoreapp3.1\Swap numbers.deps.json
+C:\Users\DRAMYAKA\source\repos\calculater\Swap numbers\bin\Debug\netcoreapp3.1\Swap numbers.runtimeconfig.json
+C:\Users\DRAMYAKA\source\repos\calculater\Swap numbers\bin\Debug\netcoreapp3.1\Swap numbers.runtimeconfig.dev.json
+C:\Users\DRAMYAKA\source\repos\calculater\Swap numbers\bin\Debug\netcoreapp3.1\Swap numbers.dll
+C:\Users\DRAMYAKA\source\repos\calculater\Swap numbers\bin\Debug\netcoreapp3.1\Swap numbers.pdb
+C:\Users\DRAMYAKA\source\repos\calculater\Swap numbers\obj\Debug\netcoreapp3.1\Swap numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRAMYAKA\source\repos\calculater\Swap numbers\obj\Debug\netcoreapp3.1\Swap numbers.AssemblyInfoInputs.cache
+C:\Users\DRAMYAKA\source\repos\calculater\Swap numbers\obj\Debug\netcoreapp3.1\Swap numbers.AssemblyInfo.cs
+C:\Users\DRAMYAKA\source\repos\calculater\Swap numbers\obj\Debug\netcoreapp3.1\Swap numbers.csproj.CoreCompileInputs.cache
+C:\Users\DRAMYAKA\source\repos\calculater\Swap numbers\obj\Debug\netcoreapp3.1\Swap numbers.dll
+C:\Users\DRAMYAKA\source\repos\calculater\Swap numbers\obj\Debug\netcoreapp3.1\Swap numbers.pdb
+C:\Users\DRAMYAKA\source\repos\calculater\Swap numbers\obj\Debug\netcoreapp3.1\Swap numbers.genruntimeconfig.cache
